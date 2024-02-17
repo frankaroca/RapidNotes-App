@@ -1,4 +1,4 @@
-# 11 Express Note Taker
+# RapidNotes-App
 
 ## User Story
 
