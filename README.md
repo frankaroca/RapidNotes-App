@@ -35,8 +35,8 @@ Using Express.js, create an application that will first prompt the user to click
 ![img](./Assets/note-taker-screenshot.png)
 
 ## Live App Link
-https://express-note-taker3-38445df5a0b6.herokuapp.com/
-
+ https://frankaroca.github.io/RapidNotes-App/
+ 
 ## How to Run
 
 1. Run 'git clone (repo link)' on Git Bash'
